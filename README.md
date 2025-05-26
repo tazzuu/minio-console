@@ -211,7 +211,7 @@ the `CONSOLE_DEBUG_LOGLEVEL` environment variable to one of the following values
  - Duration of the request
 
 The detailed logging also includes all request and response headers (if any).
- 
+
 # Contribute to console Project
 
-Please follow console [Contributor's Guide](https://github.com/minio/console/blob/master/CONTRIBUTING.md)
+Please follow console [Contributor's Guide](https://github.com/minio/console/blob/master/CONTRIBUTING.md).
